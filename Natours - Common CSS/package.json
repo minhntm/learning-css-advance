@@ -16,7 +16,7 @@
   "author": "Minh",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.0",
